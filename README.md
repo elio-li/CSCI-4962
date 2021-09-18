@@ -1,1 +1,1 @@
-# CSCI4964
+# CSCI4964 Project in ML/AI
