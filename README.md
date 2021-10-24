@@ -1,1 +1,3 @@
-# CSCI4964 Project in ML/AI
+# CSCI 4962 Project in ML/AI
+
+## This is the repository for Project in ML/AI course at RPI.
